@@ -1,0 +1,5 @@
+ Test Case Planning Report
+The test case planning was created for the OrangeHRM login module. The objective is to verify that the authentication functionality works correctly under different scenarios, including valid login, invalid credentials, empty fields, logout, and password recovery.
+A total of **8 test cases** were prepared and linked to their related requirements to ensure traceability. Each test case includes a test ID, test name, description, references, prerequisites, test configuration, test steps, expected results, priority, status, and estimated time.
+The tests will be executed manually using **Mozilla Firefox** on a **Linux** operating system. The planned execution status is currently set to **To Execute**. The total estimated execution time for one tester is approximately **52 minutes**.
+This planning ensures that the login feature is tested in a structured, clear, and traceable way before moving to the execution phase.
